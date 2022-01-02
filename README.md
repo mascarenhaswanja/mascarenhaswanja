@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Wanja
-
-During the Mobile Application Development Program I had an opportunity to develop projects using Swift, Java and React Native. Furthemore, Blockchain Development Program gave an opportunity to develop projects using React, and to handle Ethereum Smart Contracts and Hyperledger. My solid background for the bank industry is fundamental to grow in the emerging Defi sector using disruptive technologies. Motivated to solve complex issues, support clients, partners, and project teams and a strong commitment to the quality of deliverables. Motivated team player who works well with co-workers and independently.
+I had an opportunity to develop projects using Swift, Java and React Native. Furthemore, Blockchain Development Program gave an opportunity to develop projects using React, and to handle Ethereum Smart Contracts and Hyperledger. My solid background for the bank industry is fundamental to grow in the emerging Defi sector using disruptive technologies. Motivated to solve complex issues, support clients, partners, and project teams and a strong commitment to the quality of deliverables. Motivated team player who works well with co-workers and independently.
 
 - 🌱 Mobile Application Development and Strategy at George Brown College
 - 🌱 Blockchain Development at George Brown College
